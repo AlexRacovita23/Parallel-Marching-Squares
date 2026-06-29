@@ -1,5 +1,4 @@
-# Tema-1-APD
-Student: Racovita Alexandru Catalin
+# Parallel-Marching-Squares
 
 For this project there were 3 main tasks that had to be done
 in order to parallelise the Marching Squares Algorithm:
